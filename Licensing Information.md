@@ -1,0 +1,3 @@
+Licensing: http://www.wxwidgets.org/about/licence/http://www.wxwidgets.org/about/licence/
+
+I am using the wxwidgets gui tool. My understanding that this is an open source tool that does not require a purchased license. If this is not the case, please notify me at gabrielsolomonholland@gmail.com and I will immediately terminate use. My understanding comes exclusively from the above link and my interpretation of that information. I want to make this program to help my brother and potentially others if it goes well, please don't sue me for trying to help people.
