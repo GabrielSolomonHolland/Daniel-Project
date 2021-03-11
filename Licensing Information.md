@@ -1,3 +1,1 @@
-Licensing: http://www.wxwidgets.org/about/licence/http://www.wxwidgets.org/about/licence/
-
-I am using the wxwidgets gui tool. My understanding that this is an open source tool that does not require a purchased license. If this is not the case, please notify me at gabrielsolomonholland@gmail.com and I will immediately terminate use. My understanding comes exclusively from the above link and my interpretation of that information. I want to make this program to help my brother and potentially others if it goes well, please don't sue me for trying to help people.
+All of this code is mine, any resemblance to others is unintentional or taken from stack overflow. I am using tkinter for my GUI and my understanding is that that is a open source license through Python, which means I don't need to obtain any other licenses to use it. If this is not the case please tell me and I will fix it. I really don't want to get sued and I am 99% sure I am doing things right
