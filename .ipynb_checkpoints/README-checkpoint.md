@@ -10,4 +10,13 @@ This program should automatically scan through the tables and pull information a
 Ideally this project should expand to different types of steel at some point.
 Ideally I will add a GUI and attach the code to an application, time estimation on that is unknown.
 
-Explanation for lack of commits prior to this readme: I attempted to rename the repository to be something more self explanitory. Github then forgot my repository existed and I had to copy over all of the files. Essentially, I added 9 csv's of 9 species of woods to iterate through. I created a general selection method using input into the terminal which should be replaced with the addition of a GUI. The code is commented throughout and should be easy enough to read. 
+
+# Plan update 8/11/2021:
+
+* Make a GUI that takes the current code and create a functional window, potential convert to excecutable though that is a HUGE step a ways off
+
+* Expand library to encompass all woods, steel
+
+* Learn how to do calculations and perform them automatically
+
+* Adapt presentation to give more detailed answers
