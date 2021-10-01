@@ -1,0 +1,9 @@
+dark and pastels:
+312f2f (black)
+84dccf (pale pastel green)
+a6d9f7 (baby blue)
+bccce0 (pale grey blue)
+bf98a0 (pink beige)
+
+
+pallate 2: 413620 (dark brown), 9c6615 (light brown), 9f7833 (brown), ffd791 (cream), cdd1de (blue grey)
