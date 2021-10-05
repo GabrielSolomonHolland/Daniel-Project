@@ -11,7 +11,7 @@ Ideally this project should expand to different types of steel at some point.
 Ideally I will add a GUI and attach the code to an application, time estimation on that is unknown.
 
 
-# Plan update 8/11/2021:
+# Plan update 10/05/2021:
 
 * Make a GUI that takes the current code and create a functional window, potential convert to excecutable though that is a HUGE step a ways off
 
@@ -20,3 +20,7 @@ Ideally I will add a GUI and attach the code to an application, time estimation 
 * Learn how to do calculations and perform them automatically
 
 * Adapt presentation to give more detailed answers
+
+# Completed:
+
+* Did a short term solution creating a command line program, enhancing much of my code
