@@ -1,3 +1,10 @@
+# Update as of 3/29/2022
+
+This script had a hard time running on my brother's computer, we are completely changing gears and now developing an android app. See the "AndroidDevNDSCalculator" repository
+
+
+
+
 # NDS-Reference-Values-DSH-GSH
 Woodworking project for my brother Daniel
 
